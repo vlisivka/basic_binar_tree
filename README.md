@@ -1,1 +1,1 @@
-# basic_binar_tree
+Basic binary tree implemented in safe Rust as example.
